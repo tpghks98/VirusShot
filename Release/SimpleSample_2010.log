@@ -1,0 +1,82 @@
+﻿빌드 시작: 2015-12-28 오전 10:50:29
+     1>2 노드의 "E:\Users\NB nb\Desktop\김세환\Data\Programming Folder\프레임워크 및 프로젝트\Mine\Base Set\Peanut\SimpleSample_2010.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\Peanut.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /Zi /nologo /W4 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Release\Peanut.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Peanut.cpp  
+         Peanut.cpp
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Users\NB nb\Desktop\김세환\Data\Programming Folder\프레임워크 및 프로젝트\Mine\Base Set\Peanut\Release\Peanut.exe" /INCREMENTAL:NO /NOLOGO d3dx10.lib d3dx9.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Peanut.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Users\NB nb\Desktop\김세환\Data\Programming Folder\프레임워크 및 프로젝트\Mine\Base Set\Peanut\Release\Peanut.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\NB nb\Desktop\김세환\Data\Programming Folder\프레임워크 및 프로젝트\Mine\Base Set\Peanut\Release\Peanut.lib" /MACHINE:X86 Release\SimpleSample.res
+         Release\cAlphaShader.obj
+         Release\cAseFile.obj
+         Release\cAseLoader.obj
+         Release\cBackUI.obj
+         Release\cBacteria.obj
+         Release\cBaseObject.obj
+         Release\cBaseShader.obj
+         Release\cBullet.obj
+         Release\cButton.obj
+         Release\cCamera.obj
+         Release\cCancer.obj
+         Release\cCharacter.obj
+         Release\cEffect.obj
+         Release\cEnemyBullet.obj
+         Release\cFade.obj
+         Release\cGaugeUI.obj
+         Release\cGeomNode.obj
+         Release\cGround.obj
+         Release\cGroundSpawn.obj
+         Release\cHomeScene.obj
+         Release\cImageFile.obj
+         Release\cIntroScene.obj
+         Release\cItem.obj
+         Release\cMonster.obj
+         Release\cMonsterSpawn.obj
+         Release\cObjMgr.obj
+         Release\cPlayer.obj
+         Release\cPlayScene.obj
+         Release\cPostMgr.obj
+         Release\cRedCell.obj
+         Release\cResourceFile.obj
+         Release\cResourceMgr.obj
+         Release\cScene.obj
+         Release\cSceneMgr.obj
+         Release\cSmooth.obj
+         Release\cSubPlayer.obj
+         Release\cSystemMgr.obj
+         Release\cMain.obj
+         Release\cTexBuf.obj
+         Release\cTextureFile.obj
+         Release\cTimer.obj
+         Release\cToonShader.obj
+         Release\cUI.obj
+         Release\cVirus.obj
+         Release\cWhiteCell.obj
+         Release\DXUT.obj
+         Release\DXUTenum.obj
+         Release\DXUTmisc.obj
+         Release\DXUTcamera.obj
+         Release\DXUTgui.obj
+         Release\DXUTres.obj
+         Release\DXUTsettingsdlg.obj
+         Release\SDKmesh.obj
+         Release\SDKmisc.obj
+         Release\IObj.obj
+         Release\Peanut.obj  
+         코드를 생성하고 있습니다.
+     1>e:\users\nb nb\desktop\김세환\data\programming folder\프레임워크 및 프로젝트\mine\base set\peanut\caseloader.cpp(26): warning C4706: 조건식 내에 할당이 있습니다.
+         코드를 생성했습니다.
+         SimpleSample_2010.vcxproj -> E:\Users\NB nb\Desktop\김세환\Data\Programming Folder\프레임워크 및 프로젝트\Mine\Base Set\Peanut\Release\Peanut.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Users\NB nb\Desktop\김세환\Data\Programming Folder\프레임워크 및 프로젝트\Mine\Base Set\Peanut\Release\Peanut.exe;#1" /manifest Release\Peanut.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         "Release\Peanut.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\Peanut.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"E:\Users\NB nb\Desktop\김세환\Data\Programming Folder\프레임워크 및 프로젝트\Mine\Base Set\Peanut\SimpleSample_2010.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.03
